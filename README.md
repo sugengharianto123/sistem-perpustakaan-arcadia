@@ -1,6 +1,3 @@
-Berikut contoh README.md untuk repository **sistem-perpustakaan-arcadia** (Sistem Drive-Thru Perpustakaan Arcadia) — kamu bisa salin, lalu sesuaikan bila perlu.
-
----
 
 # Sistem Perpustakaan Arcadia (Drive-Thru)
 
@@ -66,14 +63,3 @@ Terdapat dua aplikasi Django di dalam proyek ini:
    http://127.0.0.1:8000
    ```
 
-## Cara kontribusi
-
-Silakan lakukan fork, lalu buat pull request untuk fitur baru, perbaikan bug, atau dokumentasi.
-
-## Lisensi
-
-[Masukkan lisensi di sini — misalnya MIT / GPL / lain sesuai keputusan]
-
----
-
-Kalau mau — saya bisa buatkan README versi lengkap (termasuk setup database, contoh penggunaan, diagram alur) untukmu. Mau saya lanjutkan bikin versi itu sekarang?
