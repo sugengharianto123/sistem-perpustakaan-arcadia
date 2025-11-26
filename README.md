@@ -40,13 +40,7 @@ Terdapat dua aplikasi Django di dalam proyek ini:
    source venv/bin/activate   # di Linux/macOS  
    venv\Scripts\activate      # di Windows  
    ```
-3. Install dependencies — jika terdapat file `requirements.txt`:
-
-   ```bash
-   pip install -r requirements.txt  
-   ```
-
-   Jika tidak ada, install Django manual:
+3. Install Django manual:
 
    ```bash
    pip install django  
